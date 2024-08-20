@@ -1,0 +1,4 @@
+### PROJECT GOAL 
+
+You've been hired to come in as a data analyst working for NBA. The NBA is seeking to enhance its predictive capabilities to make informed decisions regarding player performance and team success. Currently, there is a need to understand how various factors such as player statistics, team performance metrics, and game dynamics interrelate. The organization aims to develop predictive models that leverage this data to forecast player and team success, thereby optimizing game strategies and improving overall performance. This requires a deep dive into the data using SQL to uncover patterns, 
+correlations, and actionable insights
