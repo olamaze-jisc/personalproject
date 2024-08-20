@@ -19,7 +19,7 @@ Perform SQL queries to identify trends, outliers, and patterns in store profitab
 Generate summary statistics and visualizations to illustrate key findings.
 Develop a set of recommendations based on the analysis to improve either player, team or game performance.
 
-#### Task
+#### Task breakdown
 ##### Access and Understand the Data:
 ##### Connect to the database containing NBA data.
 ##### Examine the data structure and identify key tables and fields related to store sales and profitability.
