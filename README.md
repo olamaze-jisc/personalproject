@@ -24,16 +24,16 @@ Generate summary statistics and visualizations to illustrate key findings.
 Develop a set of recommendations based on the analysis to improve either player, team or game performance.
 
 #### Task
-Access and Understand the Data:
-Connect to the database containing NBA data.
-Examine the data structure and identify key tables and fields related to store sales and profitability.
-Perform SQL Analysis:
-Write SQL queries to extract relevant data for analysis.
-Analyze relevant metrics to determine team, player or game outcomes.
-Identify trends, patterns, and anomalies in the data that could impact the outcomes of games.
-Generate Insights:
-Summarize your findings in a report.
-Identify factors contributing to player/team/game success.
-Develop Recommendations:
-Based on your analysis, formulate actionable recommendations to improve player/team/game.
-Consider strategies such as marketing initiatives, rule or official changes, or other related changes.
+##### Access and Understand the Data:
+##### Connect to the database containing NBA data.
+##### Examine the data structure and identify key tables and fields related to store sales and profitability.
+##### Perform SQL Analysis:
+##### Write SQL queries to extract relevant data for analysis.
+##### Analyze relevant metrics to determine team, player or game outcomes.
+##### Identify trends, patterns, and anomalies in the data that could impact the outcomes of games.
+##### Generate Insights:
+##### Summarize your findings in a report.
+##### Identify factors contributing to player/team/game success.
+##### Develop Recommendations:
+##### Based on your analysis, formulate actionable recommendations to improve player/team/game.
+##### Consider strategies such as marketing initiatives, rule or official changes, or other related changes.
